@@ -349,20 +349,20 @@ margin: 5px 0px;
     margin: 30px 5px 20px 5px;
 }
 .img-1-port, .img-2-port, .img-3-port{
-    background-image: url(/images/wp6045025.jpg);
+    background-image: url(./images/wp6045025.jpg);
     background-position: center;
     background-size: cover;
     width: 300px;
     height: 260px;
 }
 .img-2-port{
-    background-image: url(/images/photo-1593155726603-89149b7cbfd6.jpg);
+    background-image: url(./images/photo-1593155726603-89149b7cbfd6.jpg);
 }
 .img-3-port{
-    background-image: url(/images/istockphoto-685149826-640x640.jpg);
+    background-image: url(./images/istockphoto-685149826-640x640.jpg);
 }
 .img-4-port, .img-5-port, .img-6-port{
-    background-image: url(/images/pexels-hrayr-movsisyan-2337415.jpg);
+    background-image: url(./images/pexels-hrayr-movsisyan-2337415.jpg);
     background-position: center;
     background-size: cover;
     width: 300px;
@@ -378,7 +378,7 @@ margin: 5px 0px;
     padding-top: 95px;
 }
 .img-6-port{
-    background-image: url(/images/HD-wallpaper-evening-in-park-trees-lights-leaves-latvia-bench-dusk-park.jpg);
+    background-image: url(./images/HD-wallpaper-evening-in-park-trees-lights-leaves-latvia-bench-dusk-park.jpg);
 }
 .port-img{
     color: white;
@@ -404,20 +404,20 @@ margin: 5px 0px;
     background-color: rgba(0, 0, 0, 0.582);
 }
 .img-7-port, .img-8-port, .img-9-port{
-    background-image: url(/images/arguing-argument-boxing-boy-wallpaper-preview.jpg);
+    background-image: url(./images/arguing-argument-boxing-boy-wallpaper-preview.jpg);
     background-position: center;
     background-size: cover;
     width: 300px;
     height: 260px;
 }
 .img-8-port{
-    background-image: url(/images/HD-wallpaper-ford-mustang-car-carro-classic-old-thumbnail.jpg);
+    background-image: url(./images/HD-wallpaper-ford-mustang-car-carro-classic-old-thumbnail.jpg);
 }
 .img-9-port{
 background-image: url(/images/360_F_937.jpg);
 }
 .back-footer{
-    background-image: url(/images/teemusphoto-urban-dystopian-singapore-wallpaper-preview.jpg);
+    background-image: url(./images/teemusphoto-urban-dystopian-singapore-wallpaper-preview.jpg);
     background-position: center;
     background-size: cover;
 }

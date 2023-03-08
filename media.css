@@ -167,7 +167,7 @@
         width:200px !important;
     }
     .bar-3::before{
-        width:120px !important;   
+        width:125px !important;   
     }
     .bar-1::after{
         left:230px !important;
@@ -182,10 +182,10 @@
         left:193px !important;
     }
     .bar-3::after{
-        left:103px !important;
+        left:110px !important;
     }
     .triangle-down2{
-        left:115px !important;
+        left:123px !important;
     }
     .yellow-color{
         height: 330px !important;
